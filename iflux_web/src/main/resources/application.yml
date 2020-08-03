@@ -22,10 +22,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/springboot?charset=utf8mb4&useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
-    # username: CodeSheep(B0oWefat1FSUCXd960e97MhEwhEynvfbX7G98pYogbmhRQz+R4yPvpeCdmtVfK/C)
-    # password: CodeSheep(464B5T9zA9hu9wxv+Tln90ZSOT1PTDXAZg7XHkTKUohwXw+y6KJKP2krxy1lR6wi)
-    username: root
-    password: root
+    username: CodeSheep(B0oWefat1FSUCXd960e97MhEwhEynvfbX7G98pYogbmhRQz+R4yPvpeCdmtVfK/C)
+    password: CodeSheep(464B5T9zA9hu9wxv+Tln90ZSOT1PTDXAZg7XHkTKUohwXw+y6KJKP2krxy1lR6wi)
     hikari:
       minimum-idle: 5
       maximum-pool-size: 15
